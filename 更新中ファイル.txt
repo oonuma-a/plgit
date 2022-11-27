@@ -1,3 +1,4 @@
 originのmasterから更新
 Git merge
 a
+featureから。
