@@ -1,5 +1,5 @@
 originのmasterから更新
-originのmasterから更新2
+originのmasterから更新3
 Git merge
 a
 featureから。
