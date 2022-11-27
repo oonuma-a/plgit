@@ -3,3 +3,4 @@ originのmasterから更新2
 Git merge
 a
 featureから。
+クローン。
