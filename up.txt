@@ -1,3 +1,4 @@
+originyori
 featureから
 
 クローンmasterからの適用
