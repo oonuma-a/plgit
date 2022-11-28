@@ -1,1 +1,3 @@
 featureから
+
+クローンmasterからの適用
