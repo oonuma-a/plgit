@@ -1,4 +1,4 @@
-originのmasterから更新
+originのmaster
 
 originのmasterから更新3
 Git merge
