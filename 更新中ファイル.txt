@@ -6,4 +6,8 @@ a
 featureから。
 クローン。
 
+
 remorepoのmasterから更新
+
+リモートから更新。
+
