@@ -3,3 +3,4 @@ oriori master
 featureから
 
 クローンmasterからの適用
+origin master
