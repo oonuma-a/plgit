@@ -4,3 +4,6 @@ Git merge
 a
 featureから。
 クローン。
+
+
+リモートから更新。
