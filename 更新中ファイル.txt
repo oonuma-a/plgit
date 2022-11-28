@@ -1,6 +1,9 @@
 originのmasterから更新
+
 originのmasterから更新3
 Git merge
 a
 featureから。
 クローン。
+
+remorepoのmasterから更新
