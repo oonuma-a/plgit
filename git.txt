@@ -1,24 +1,3 @@
 初期masterからの分岐
 
-Epicのブランチの状態を戻す
-退避したEpicを変更を適用
-releaseに戻す
-リモートのリリースに適用
-a
-
-git add 
-git commit
-でローカルリポジトリに反映
-
-gitpushでリモートリポジトリに反映
-
-gitのリモートリポジトリを削除
-$ git remote rm origin（git remote -v で出てくる前半がリモートリポジトリ名）
-
-
-
-最初にリモートリポジトリはgit remote add でリポジトリを登録する
-git remote add ---
-git remote add origin https://github.com/oonuma-a/plgit.git
-
-git push -u origin master
+不要分ありmasterからの新規更新分
