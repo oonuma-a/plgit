@@ -1,3 +1,5 @@
+初期masterからの分岐
+
 Epicのブランチの状態を戻す
 退避したEpicを変更を適用
 releaseに戻す
